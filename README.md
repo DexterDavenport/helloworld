@@ -2,13 +2,9 @@
 
 This is a basic 'Hello World' program. I made this code to demonstrate basic python skills (using the print function) along with demonstrating the use of GitHub, and Visual Studio Code all being used together.
 
-{Provide a description of your software}
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+A visual deminstration of the code is available [here](https://youtu.be/aSbW4Eo1r7E)
 
 # Development Environment
 
